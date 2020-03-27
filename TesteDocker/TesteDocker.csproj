@@ -14,5 +14,11 @@
     <PackageReference Include="Serilog.Sinks.ElasticSearch" Version="8.0.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="docker-compose.yml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 
 </Project>

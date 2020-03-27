@@ -204,3 +204,4 @@ C:\Projetos\docker-teste\TesteDocker\bin\Debug\netcoreapp3.1\Serilog.Sinks.Perio
 C:\Projetos\docker-teste\TesteDocker\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
 C:\Projetos\docker-teste\TesteDocker\obj\Debug\netcoreapp3.1\TesteDocker.csproj.CoreCompileInputs.cache
 C:\Projetos\docker-teste\TesteDocker\obj\Debug\netcoreapp3.1\TesteDocker.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos\docker-teste\TesteDocker\bin\Debug\netcoreapp3.1\docker-compose.yml
