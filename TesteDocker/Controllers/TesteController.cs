@@ -15,9 +15,9 @@ namespace TesteDocker.Controllers
             "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };
 
-        private readonly ILogger<WeatherForecastController> _logger;
+        private readonly ILogger<TesteController> _logger;
 
-        public TesteController(ILogger<WeatherForecastController> logger)
+        public TesteController(ILogger<TesteController> logger)
         {
             _logger = logger;
         }

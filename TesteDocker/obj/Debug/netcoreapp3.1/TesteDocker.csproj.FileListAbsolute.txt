@@ -194,5 +194,13 @@ C:\Projetos\docker-teste\TesteDocker\bin\Debug\netcoreapp3.1\System.Diagnostics.
 C:\Projetos\docker-teste\TesteDocker\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
 C:\Projetos\docker-teste\TesteDocker\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
 C:\Projetos\docker-teste\TesteDocker\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projetos\docker-teste\TesteDocker\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Projetos\docker-teste\TesteDocker\bin\Debug\netcoreapp3.1\Elasticsearch.Net.dll
+C:\Projetos\docker-teste\TesteDocker\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\Projetos\docker-teste\TesteDocker\bin\Debug\netcoreapp3.1\Serilog.Formatting.Elasticsearch.dll
+C:\Projetos\docker-teste\TesteDocker\bin\Debug\netcoreapp3.1\Serilog.Sinks.Elasticsearch.dll
+C:\Projetos\docker-teste\TesteDocker\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Projetos\docker-teste\TesteDocker\bin\Debug\netcoreapp3.1\Serilog.Sinks.PeriodicBatching.dll
+C:\Projetos\docker-teste\TesteDocker\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
 C:\Projetos\docker-teste\TesteDocker\obj\Debug\netcoreapp3.1\TesteDocker.csproj.CoreCompileInputs.cache
 C:\Projetos\docker-teste\TesteDocker\obj\Debug\netcoreapp3.1\TesteDocker.MvcApplicationPartsAssemblyInfo.cache
